@@ -3,7 +3,9 @@ potato-quest
 
 Potato Quest - the game of life
 
-Set up as an Eclipse project on Java 1.8. It will use LWJGL.
+Set up as a Gradle project in Eclipse on Java 1.8. It used libGDX.
+
+Install the plugin Gradle Integration for Eclipse, then go to File > Import > Gradle > Gradle Project.
 
 Standards
 =========
